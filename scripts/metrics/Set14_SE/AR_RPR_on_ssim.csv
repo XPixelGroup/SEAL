@@ -1,0 +1,5 @@
+,metric,SRResNet,DASR,BSRNet,RealESRNet_x4plus,Real-RRDB_withdropout,GDRealESRNetx4plus,swinir-l
+0,AR,0.0,0.0,0.76,0.91,0.32,0.69,0.84
+1,IQR,0.04,0.03,0.27,0.16,0.22,0.26,0.17
+2,RPRA,0.0,0.0,0.7,0.67,0.59,0.67,0.72
+3,RPRU,0.04,0.04,0.36,0.43,0.33,0.39,0.38
