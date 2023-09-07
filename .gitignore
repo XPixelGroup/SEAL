@@ -4,7 +4,7 @@ results/*
 tb_logger/*
 wandb/*
 tmp/*
-
+modelzoo/*
 trans/*
 *.DS_Store
 
