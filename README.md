@@ -69,10 +69,11 @@ We consider **SEAL** as the **first step** towards creating an unbiased and comp
 
 ## :new:Update
 
-- **2023.?.?**: ?
+- **2023.09.07**: Repo is released.
 
 ## :climbing:TODO
-
+- [x] Release code and pretrained models:computer:.
+- [ ] Update SE test sets links:link:.
 
 
 ## :black_square_button:Benchmark Results
@@ -87,7 +88,6 @@ We consider **SEAL** as the **first step** towards creating an unbiased and comp
 | RDSR             |  22.44 | 0.08    | 0.23 | 0.63 |  0.21   |
 | RealESRNet-GD          |  22.82 | 0.43    | 0.37 | 0.74 |  0.33   |
 | SwinIR                 |  22.61 |   0.41  | 0.24 | 0.58 |  0.29   |
-
 
 ## Installation
 
@@ -145,12 +145,14 @@ python scripts/metrics/calculate_AR_RPR.py # It includes LPIPS and NIQE
 
 ## Citation
 
+```
 @article{2023seal,
   author    = {Wenlong Zhang, Xiaohui Li, Xiangyu Chen, Yu Qiao, Xiao-Ming Wu, Chao Dong},
   title     = {SEAL: A Framework for Systematic Evaluation of Real-World Super-Resolution},
   journal   = {arxiv},
   year      = {2023},
 }
+```
 
 ## Contact
 If you have any question, please email wenlong.zhang@connect.polyu.hk.
