@@ -5,12 +5,12 @@
 ## SEAL: A Framework for Systematic Evaluation of Real-World Super-Resolution [[Paper Link]](https://arxiv.org/pdf/2309.03020.pdf) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=WenlongZhang0517/SEAL)
 
-[Wenlong zhang](https://wenlongzhang0517.github.io/)<sup>1,2</sup>, [Xiaohui Li](https://github.com/xh9998)<sup>2,3</sup>, [Xiangyu Chen](https://chxy95.github.io/)<sup>2,4</sup>, [Yu Qiao](https://scholar.google.com.hk/citations?user=gFtI-8QAAAAJ&hl=zh-CN&oi=ao)<sup>2,5</sup>, [Xiaoming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/)<sup>1</sup> and [Chao Dong](https://scholar.google.com.hk/citations?user=OSDCB0UAAAAJ&hl=zh-CN)<sup>2,5</sup>
+[Wenlong zhang](https://wenlongzhang0517.github.io/)<sup>1,2</sup>, [Xiaohui Li](https://github.com/xh9998)<sup>2,3</sup>, [Xiangyu Chen](https://chxy95.github.io/)<sup>2,4,5</sup>, [Yu Qiao](https://scholar.google.com.hk/citations?user=gFtI-8QAAAAJ&hl=zh-CN&oi=ao)<sup>2,5</sup>, [Xiaoming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/)<sup>1</sup> and [Chao Dong](https://scholar.google.com.hk/citations?user=OSDCB0UAAAAJ&hl=zh-CN)<sup>2,5</sup>
 
 <sup>1</sup>The HongKong Polytechnic University
 <sup>2</sup>Shanghai AI Laboratory
 <sup>3</sup>Shanghai Jiao Tong University <br>
-<sup>4</sup>The University of Macau
+<sup>4</sup>University of Macau
 <sup>5</sup>Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
 
 ## Highlight
