@@ -2,7 +2,7 @@
     <img src="assets/icon.png" height=80 style="border-radius: 15px">
 </p>
 
-## SEAL: A Framework for Systematic Evaluation of Real-World Super-Resolution [[Paper Link]](https://arxiv.org/pdf/2309.03020.pdf) 
+## SEAL: A Framework for Systematic Evaluation of Real-World Super-Resolution  <br> ICLR 2024 Spotlight [[Paper Link]](https://arxiv.org/pdf/2309.03020.pdf) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=WenlongZhang0517/SEAL)
 
 [Wenlong zhang](https://wenlongzhang0517.github.io/)<sup>1,2</sup>, [Xiaohui Li](https://github.com/xh9998)<sup>2,3</sup>, [Xiangyu Chen](https://chxy95.github.io/)<sup>2,4,5</sup>, [Yu Qiao](https://scholar.google.com.hk/citations?user=gFtI-8QAAAAJ&hl=zh-CN&oi=ao)<sup>2,5</sup>, [Xiaoming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/)<sup>1</sup> and [Chao Dong](https://scholar.google.com.hk/citations?user=OSDCB0UAAAAJ&hl=zh-CN)<sup>2,5</sup>
